@@ -21,7 +21,7 @@ group :jekyll_plugins do
     gem 'jekyll-toc'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
-
+    gem 'wmd', '>=0.1.0'
     gem 'classifier-reborn'  # used for content categorization during the build
 end
 
